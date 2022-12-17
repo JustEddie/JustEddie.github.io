@@ -48,7 +48,7 @@ social:
 # About (Section and Page)
 
 # About Section
-blurb: I am a chef with 4 years of experience, looking to change career to software engineering. I have been studying software engineering, coding in JavaScript, CSS, HTML, React, Ruby On Rails and more. I am always trying to be better as a worker, a developer, and as a person by continuously studying and practicing. I have many more skills and abilities that I would love to exercise, If I am successful in my application I am available to negotiate a start date for 2023.
+blurb: I am a full stack developer, always trying to be better as a worker, a developer, and as a person by continuously studying and practicing.
 
 blurb-btn-link: "/about"
 blurb-btn-name: know more
@@ -70,18 +70,18 @@ work-process:
     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
 # My Team Section
-team:
-  - title: "Jack Schenziwe"
-    image: "assets/images/team/member-1.png"
-    designation: "Project Manager"
+# team:
+#   - title: "Jack Schenziwe"
+#     image: "assets/images/team/member-1.png"
+#     designation: "Project Manager"
 
-  - title: "Julias Carlie"
-    image: "assets/images/team/member-2.png"
-    designation: "Web Developer"
+#   - title: "Julias Carlie"
+#     image: "assets/images/team/member-2.png"
+#     designation: "Web Developer"
 
-  - title: "John Doe"
-    image: "assets/images/team/member-3.png"
-    designation: "Designer"
+#   - title: "John Doe"
+#     image: "assets/images/team/member-3.png"
+#     designation: "Designer"
 
 #-------------------------------
 # Skills Section
