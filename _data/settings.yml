@@ -2,13 +2,13 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
+title: JustEddie
 logo:
 author: themefisher
 description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
+email: 3ddie.na@gmail.com
+phone: 0403 623 243
+address: Bendigo Victoria, Australia
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
@@ -36,19 +36,19 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: Hi! I’m <br> Eddie <br> Full-stack developer
 
 social:
-  - { icon: "ti-facebook", link: "#" }
-  - { icon: "ti-instagram", link: "#" }
-  - { icon: "ti-dribbble", link: "#" }
-  - { icon: "ti-twitter", link: "#" }
+  - { icon: "ti-github", link: "https://github.com/JustEddie" }
+  - { icon: "ti-instagram", link: "https://www.instagram.com/eddie_yj/" }
+  - { icon: "ti-linkedin", link: "https://www.linkedin.com/in/justeddie/" }
+  # - { icon: "ti-twitter", link: "#" }
 
 #-------------------------------
 # About (Section and Page)
 
 # About Section
-blurb: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+blurb: I am a chef with 4 years of experience, looking to change career to software engineering. I have been studying software engineering, coding in JavaScript, CSS, HTML, React, Ruby On Rails and more. I am always trying to be better as a worker, a developer, and as a person by continuously studying and practicing. I have many more skills and abilities that I would love to exercise, If I am successful in my application I am available to negotiate a start date for 2023.
 
 blurb-btn-link: "/about"
 blurb-btn-name: know more
@@ -265,39 +265,39 @@ testimonial-items:
 #-------------------------------
 # Client Slider Section
 
-client-slider-items:
-  - logo: "assets/images/clients-logo/client-logo-1.png"
-    url: "#"
+# client-slider-items:
+#   - logo: "assets/images/clients-logo/client-logo-1.png"
+#     url: "#"
 
-  - logo: "assets/images/clients-logo/client-logo-2.png"
-    url: "#"
+#   - logo: "assets/images/clients-logo/client-logo-2.png"
+#     url: "#"
 
-  - logo: "assets/images/clients-logo/client-logo-3.png"
-    url: "#"
+#   - logo: "assets/images/clients-logo/client-logo-3.png"
+#     url: "#"
 
-  - logo: "assets/images/clients-logo/client-logo-4.png"
-    url: "#"
+#   - logo: "assets/images/clients-logo/client-logo-4.png"
+#     url: "#"
 
-  - logo: "assets/images/clients-logo/client-logo-5.png"
-    url: "#"
+#   - logo: "assets/images/clients-logo/client-logo-5.png"
+#     url: "#"
 
-  - logo: "assets/images/clients-logo/client-logo-1.png"
-    url: "#"
+#   - logo: "assets/images/clients-logo/client-logo-1.png"
+#     url: "#"
 
-  - logo: "assets/images/clients-logo/client-logo-2.png"
-    url: "#"
+#   - logo: "assets/images/clients-logo/client-logo-2.png"
+#     url: "#"
 
-  - logo: "assets/images/clients-logo/client-logo-3.png"
-    url: "#"
+#   - logo: "assets/images/clients-logo/client-logo-3.png"
+#     url: "#"
 
-  - logo: "assets/images/clients-logo/client-logo-4.png"
-    url: "#"
+#   - logo: "assets/images/clients-logo/client-logo-4.png"
+#     url: "#"
 
-  - logo: "assets/images/clients-logo/client-logo-5.png"
-    url: "#"
+#   - logo: "assets/images/clients-logo/client-logo-5.png"
+#     url: "#"
 
 #-------------------------------
 # Contact Section
 
 contact-title: Contact Info
-contact-email: steve.fruits@email.com
+contact-email: 3ddie.na@gmail.com
